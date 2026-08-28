@@ -4,7 +4,7 @@
 
 **Contributor:** Smita Prajapati ([@smita1078](https://github.com/smita1078))  
 **Project:** Enhancement For Website 2026  
-**Mentors:** [Roman Ivanov](https://github.com/romani), [Stoyan Kitchev](https://github.com/stoyanK7), [@Zopss](https://github.com/Zopss), [@kkoutsilis](https://github.com/kkoutsilis), [@baratali](https://github.com/baratali)  
+**Mentors:** [Roman Ivanov](https://github.com/romani), [Stoyan Kostadinov](https://github.com/stoyanK7), [@Zopsss](https://github.com/Zopsss), [@kkoutsilis](https://github.com/kkoutsilis), [@baratali](https://github.com/baratali)  
 **Duration:** June–August 2026  
 **Organization:** Checkstyle  
 
@@ -247,7 +247,7 @@ During GSoC 2025, we automated significantly and now web content is taken from J
 
 ## Acknowledgements
 
-I would like to express my deepest gratitude to my mentors, [Roman Ivanov](https://github.com/romani), [Stoyan Kitchev](https://github.com/stoyanK7) and Mauryan Kansara, for their unwavering support and guidance throughout this project. Their clear direction and constructive feedback helped me navigate complex challenges and deliver high-quality solutions.
+I would like to express my deepest gratitude to my mentors, [Roman Ivanov](https://github.com/romani), [Stoyan Kostadinov](https://github.com/stoyanK7) and Mauryan Kansara, for their unwavering support and guidance throughout this project. Their clear direction and constructive feedback helped me navigate complex challenges and deliver high-quality solutions.
 
 Special thanks to the entire Checkstyle community for their detailed reviews and supportive environment.
 
